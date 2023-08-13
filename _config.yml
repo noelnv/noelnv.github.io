@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  noelnv
 
 # Build settings
-theme: "jekyll-whiteglass"
+# theme: "jekyll-whiteglass"
 remote_theme: yous/whiteglass
 plugins:
   - jekyll-archives
